@@ -1,0 +1,3 @@
+color de fondos lilas: #3d166f
+
+celeste1: #448AFF
